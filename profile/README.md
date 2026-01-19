@@ -158,17 +158,8 @@ No data migration headaches. Same platform, more features.
 
 **Want to see it in action?**
 
-1. **Book a Demo** → [sustalium.com/demo](https://sustalium.com/demo)
-2. **Try the Platform** → [app.sustalium.com/signup](https://app.sustalium.com/signup) (14-day free trial)
-3. **View Sample DPP** → [sus.li/demo](https://sus.li/demo)
-
-### For Developers
-
-**Interested in integration or contributing?**
-
-- **Documentation** → [docs.sustalium.com](https://docs.sustalium.com)
-- **API Reference** → [docs.sustalium.com/api](https://docs.sustalium.com/api) (coming soon)
-- **GitHub** → [@sustalium](https://github.com/sustalium)
+1. **Book a Demo** → [sustalium.com](https://sustalium.com/demo)
+2. **View **Live DPP →** [View Passport](https://www.madfibers.com/dpp.html?id=DPP-ALBATROS-PLATE-SC-2025)**
 
 ---
 
@@ -256,7 +247,7 @@ All tiers include:
 
 **Get help when you need it:**
 
-- **📧 Email:** support@sustalium.com
+- **📧 Email:** info@sustalium.com
 - **📖 Documentation:** [docs.sustalium.com](https://docs.sustalium.com)
 - **💬 Community:** [community.sustalium.com](https://community.sustalium.com)
 - **🐛 Issues:** [GitHub Issues](https://github.com/sustalium/sustalium-lite/issues)
