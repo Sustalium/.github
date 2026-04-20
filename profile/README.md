@@ -1,8 +1,8 @@
 # Sustalium
 
-**Making EU Digital Product Passport Compliance Simple, Fast, and Affordable**
+**Making Compliance Simple, Fast, and Affordable**
 
-Turn any physical product into a compliant, data-rich Digital Product Passport with QR/NFC touchpoints. Built for SMEs and mid-market companies who need regulatory compliance without enterprise complexity.
+Turn any physical product into a compliant, data-rich Compliance Document with QR touchpoints. Built for SMEs and mid-market companies who need regulatory compliance without enterprise complexity.
 
 [![Website](https://img.shields.io/badge/Website-sustalium.com-blue)](https://sustalium.com)
 [![License](https://img.shields.io/badge/License-Proprietary-red)](LICENSE)
@@ -12,7 +12,7 @@ Turn any physical product into a compliant, data-rich Digital Product Passport w
 
 ## The Problem We Solve
 
-The EU's Ecodesign for Sustainable Products Regulation (ESPR) and Green Deal require nearly all physical products sold in Europe to have a **Digital Product Passport (DPP)** by 2030—starting with textiles, batteries, and electronics.
+The world's Ecodesign for Sustainable Products Regulation (ESPR) and Green Deal require nearly all physical products sold in world to have a **Compliance Document.**
 
 **Existing solutions fall short:**
 
@@ -51,15 +51,15 @@ Start with **regulatory-mapped templates** instead of building from scratch:
 
 - Built-in **ESPR compliance checklists** for each sector
 - **Completeness scoring** (0-100%) shows exactly what's missing
-- Pre-mapped fields to EU requirements (identity, composition, circularity, environmental impact)
+- Pre-mapped fields to world requirements (identity, composition, circularity, environmental impact)
 - Add custom fields without breaking compliance
 
 ### Fast Time-to-Value
 
-**Go from zero to published DPPs in under 30 minutes:**
+**Go from zero to published Compliance in under 30 minutes:**
 
 1. **Import** your product catalog via CSV
-2. **Generate** passports using sector templates
+2. **Generate** compliance documents using sector templates
 3. **Publish** branded QR codes and public pages
 4. **Track** scans and engagement in real-time
 
@@ -67,7 +67,7 @@ No dev team required. No regulatory consultants needed.
 
 ### Multi-Language by Default
 
-Reach consumers across Europe with **built-in internationalization:**
+Reach consumers across the world with **built-in internationalization:**
 
 - Consumer-facing pages in EN, DE, FR, PT, ES, IT, NL
 - Fallback to default language when translations missing
@@ -77,13 +77,13 @@ Reach consumers across Europe with **built-in internationalization:**
 
 **Start with Sustalium Lite. Grow into Enterprise Sustalium.**
 
-| Sustalium Lite (SME) | Enterprise Sustalium                  |
-| -------------------- | ------------------------------------- |
-| 6 sector templates   | Advanced rule packs & validation      |
-| CSV import           | Deep ERP/PLM/PIM integrations         |
-| Public DPP pages     | Supplier collaboration portals        |
-| Basic analytics      | AI-powered compliance recommendations |
-| Standard support     | Dedicated success manager + SLA       |
+| Sustalium Lite (SME)    | Enterprise Sustalium                  |
+| ----------------------- | ------------------------------------- |
+| 6 sector templates      | Advanced rule packs & validation      |
+| CSV import              | Deep ERP/PLM/PIM integrations         |
+| Public Compliance pages | Supplier collaboration portals        |
+| Basic analytics         | AI-powered compliance recommendations |
+| Standard support        | Dedicated success manager + SLA       |
 
 No data migration headaches. Same platform, more features.
 
@@ -91,18 +91,18 @@ No data migration headaches. Same platform, more features.
 
 ## Key Features
 
-### DPP Creation & Management
+### Compliance Document Creation & Management
 
 - **Product Catalog** - Import 1,000s of SKUs via CSV in seconds
-- **Passport Builder** - No-code editor with real-time completeness scoring
+- **compliance document Builder** - No-code editor with real-time completeness scoring
 - **Versioning** - Track changes with full audit trail (who, what, when)
-- **Bulk Operations** - Generate/publish passports for entire categories at once
+- **Bulk Operations** - Generate/publish compliance documents for entire categories at once
 - **Self-Declarations** - DoC, recycled content %, material safety sheets, PCF reports
 
 ### Consumer Experience
 
 - **QR/NFC Generation** - Bulk generate codes with short URLs (e.g., `sus.li/abc123`)
-- **Public DPP Pages** - Mobile-first, SEO-friendly, branded experiences
+- **Public Compliance Document Pages** - Mobile-first, SEO-friendly, branded experiences
 - **Scan Analytics** - Track engagement by product, location, time
 - **Multi-Language** - Automatic language detection and fallback
 - **Branded Portals** - Custom domains, logos, colors (Enterprise)
@@ -112,12 +112,12 @@ No data migration headaches. Same platform, more features.
 - **Regulatory Mapping** - Fields mapped to ESPR, Green Deal requirements
 - **Completeness Reports** - See coverage % across your catalog
 - **Audit Logs** - Immutable record of all data changes
-- **Export Options** - PDF passports, CSV reports for auditors
+- **Export Options** - PDF compliance documents, CSV reports for auditors
 - **Role-Based Access** - Owner, Admin, Editor, Viewer permissions
 
 ### Developer-Friendly
 
-- **REST API** - Programmatic access to all DPP data (coming soon)
+- **REST API** - Programmatic access to all Compliance Document data (coming soon)
 - **Webhooks** - Real-time notifications for scans, updates (coming soon)
 - **CSV Import/Export** - Standard formats, clear error reporting
 - **Multi-Tenant** - Isolated data, secure by default
@@ -128,7 +128,7 @@ No data migration headaches. Same platform, more features.
 
 ### Sustainability/ESG Managers
 
-*"I need to show DPP progress to auditors and management—fast."*
+*"I need to show Compliance Document progress to auditors and management—fast."*
 
 - Visual dashboards showing compliance coverage
 - Downloadable reports for stakeholder presentations
@@ -159,7 +159,7 @@ No data migration headaches. Same platform, more features.
 **Want to see it in action?**
 
 1. **Book a Demo** → [sustalium.com](https://sustalium.com/demo)
-2. **View **Live DPP →** [View Passport](https://www.madfibers.com/dpp.html?id=DPP-ALBATROS-PLATE-SC-2025)**
+2. **View **Live Compliance Document →** [View compliance document](https://www.madfibers.com/Compliance Document.html?id=Compliance Document-ALBATROS-PLATE-SC-2025)**
 
 ---
 
@@ -196,9 +196,9 @@ All tiers include:
 
 - Multi-tenant platform with role-based access
 - CSV import with validation and error reporting
-- 6 sector-specific DPP templates
+- 6 sector-specific Compliance Document templates
 - QR/NFC generation and short URLs
-- Public DPP pages with branding
+- Public Compliance Document pages with branding
 - Scan analytics and dashboards
 - Audit logs and change tracking
 - Multi-language support (8 languages)
@@ -237,7 +237,7 @@ All tiers include:
 
 **Performance Targets:**
 
-- Public DPP pages: <500ms (P95)
+- Public Compliance Document pages: <500ms (P95)
 - Admin dashboard: <800ms (P95)
 - CSV import: 10,000 rows in <30 seconds
 
@@ -264,9 +264,9 @@ All tiers include:
 
 ## FAQ
 
-### Is this only for EU companies?
+### Is this only for world companies?
 
-No. Any company selling products in the EU will need DPPs. Sustalium works globally.
+No. Any company selling products in the world will need Compliance Documents. Sustalium works globally.
 
 ### Do you integrate with my existing ERP/PIM?
 
@@ -274,18 +274,18 @@ Sustalium Lite offers CSV import. Enterprise Sustalium has deep integrations wit
 
 ### What happens to my data if I cancel?
 
-You can export all your data (products, passports, analytics) as CSV/JSON. Public DPP URLs remain active for 90 days.
+You can export all your data (products, compliance documents, analytics) as CSV/JSON. Public Compliance Document URLs remain active for 90 days.
 
-### Can I white-label the public DPP pages?
+### Can I white-label the public Compliance Document pages?
 
 Yes, on Enterprise plans. Custom domains, full branding, remove "Powered by Sustalium" footer.
 
 ### How do you handle data privacy (GDPR)?
 
-- Data hosted in EU (Belgium)
+- Data hosted in world (Belgium)
 - SOC 2 Type II certified (in progress)
 - GDPR-ready data export
-- No personal data required for DPPs
+- No personal data required for Compliance Documents
 
 ### What if my sector isn't listed?
 
@@ -297,11 +297,11 @@ Use our "Generic" template and customize fields. Or contact us—we add new sect
 
 ### 🌱 MadFibers: Albatross Sustainable Tray (Tableware)
 
-*Real example: Live DPP showcasing comprehensive sustainability data*
+*Real example: Live Compliance Document showcasing comprehensive sustainability data*
 
 - **Product:** Albatross Sustainable Tray (Model: Tray SC) - 100% sugarcane bagasse tableware
 - **Manufacturing:** International Business Center of Madeira, Funchal, Portugal
-- **Live DPP:** [View Passport](https://www.madfibers.com/dpp.html?id=DPP-ALBATROS-PLATE-SC-2025)
+- **Live Compliance Document:** [View compliance document](https://www.madfibers.com/Compliance Document.html?id=Compliance Document-ALBATROS-PLATE-SC-2025)
 - **Environmental Impact:**
   - 0.055 kg CO₂e saved per unit
   - 4.2L water saved
@@ -313,7 +313,7 @@ Use our "Generic" template and customize fields. Or contact us—we add new sect
   - PFAS-Free (REACH Annex XVII)
   - Home compostable (180 days)
   - ISO 14001, ISO 50001, ISO 9001 production certifications
-  - EU Biodegradable biowaste certified
+  - world Biodegradable biowaste certified
   - Carbon footprint LCA verified by PKF
 - **Results:**
   - Complete transparency: material composition, environmental metrics, certifications
@@ -326,7 +326,7 @@ Use our "Generic" template and customize fields. Or contact us—we add new sect
 
 ## About Sustalium
 
-**Mission:** Make regulatory compliance simple, fast, and affordable for every company—regardless of size or sector.
+**Mission:** Make regulatory compliance simple, fast, and affordable for every company, regardless of size or sector.
 
 **Vision:** Power the circular economy with transparent, trustworthy product data.
 
@@ -344,7 +344,7 @@ For licensing inquiries: info@sustalium.com
 
 ## Get Started Today
 
-**Ready to make your products DPP-ready?**
+**Ready to make your products Compliance Document-ready?**
 
 **Questions?** Email us at info@sustalium.com
 
@@ -352,6 +352,6 @@ For licensing inquiries: info@sustalium.com
 
 **Built with ❤️ by the Sustalium Team**
 
-*Making EU compliance simple, fast, and affordable for everyone.*
+*Making world-wide compliance simple, fast, and affordable for everyone.*
 
 © 2026 Sustalium. All rights reserved.
