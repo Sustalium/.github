@@ -2,7 +2,7 @@
 
 **Making Compliance & Sustainability Simple, Fast, and Affordable**
 
-Turn any physical product into a compliant, data-rich Compliance Document with QR touchpoints. Built for SMEs and mid-market companies who need regulatory compliance without enterprise complexity.
+Enhance any business, product or service with data-rich compliance and/or sustainability frameworks. Built for SMEs and mid-market companies who need regulatory compliance without enterprise complexity.
 
 [![Website](https://img.shields.io/badge/Website-sustalium.com-blue)](https://sustalium.com)
 [![License](https://img.shields.io/badge/License-Proprietary-red)](LICENSE)
