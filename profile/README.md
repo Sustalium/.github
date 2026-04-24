@@ -1,6 +1,6 @@
 # Sustalium
 
-**Making Compliance Simple, Fast, and Affordable**
+**Making Compliance & Sustainability Simple, Fast, and Affordable**
 
 Turn any physical product into a compliant, data-rich Compliance Document with QR touchpoints. Built for SMEs and mid-market companies who need regulatory compliance without enterprise complexity.
 
@@ -12,38 +12,36 @@ Turn any physical product into a compliant, data-rich Compliance Document with Q
 
 ## The Problem We Solve
 
-The world's Ecodesign for Sustainable Products Regulation (ESPR) and Green Deal require nearly all physical products sold in world to have a **Compliance Document.**
+Global trade is choking on compliance and sustainability frameworks. Between the EU Digital Product Passport (DPP), the Cyber Resilience Act (CRA), US FSMA 204, and corporate CS3D mandates, businesses are forced to manually manage over 950+ distinct and siloed frameworks. 
 
 **Existing solutions fall short:**
 
-- Most are fashion-only (like Tappr, Renoon)
-- Enterprise platforms are too expensive and complex for SMEs
+- They are vertical silos: Businesses must buy one tool for Carbon, another for PFAS, and another for Social Audits.
+- Enterprise PLM systems (SAP/Sphera) cost €50k+ to implement.
 - DIY solutions lack regulatory expertise
 - No clear upgrade path as needs grow
 
 **Your team needs:**
 
-- ✅ Fast compliance without hiring specialists
-- ✅ Multi-sector support (textiles, electronics, furniture, batteries, packaging)
-- ✅ Affordable SaaS pricing that scales with your business
-- ✅ Consumer-facing pages that build trust, not just tick boxes
+- ✅ **"Suffer Now, Not Later":** Normalize your data once, generate multiple compliance & sustainability documents automatically.
+- ✅ Multi-sector support (Textiles, Electronics, Chemicals, Logistics, Healthcare).
+- ✅ Live, verifiable QR touchpoints that serve both Customs Agents and Consumers.
+- ✅ A scalable SaaS pricing model built for SME budgets.
 
 ---
 
 ## Why Sustalium?
 
-### Product-Agnostic from Day One
+### Global Frameworks Out-of-the-Box
+From European Ecodesign to US FDA traceability, Sustalium supports the most critical market-access blockers:
 
-Unlike fashion-focused competitors, Sustalium supports **any physical product category** with sector-specific templates:
-
-| Sector                | Template Features                                | Example Use Cases                       |
-| --------------------- | ------------------------------------------------ | --------------------------------------- |
-| **Textiles**    | Fabric composition, care instructions, recycling | Clothing, home textiles, fashion        |
-| **Electronics** | Material declarations, repair info, e-waste      | Phones, laptops, appliances             |
-| **Furniture**   | Wood sourcing, assembly guides, end-of-life      | Chairs, tables, office furniture        |
-| **Batteries**   | Chemistry, capacity, recycling instructions      | Power tools, EVs, consumer batteries    |
-| **Packaging**   | Recycled content, disposal instructions          | Boxes, containers, protective materials |
-| **Generic**     | Fully customizable for any product type          | Building materials, cosmetics, tools    |
+| Sector | Example Frameworks Generated |
+| :--- | :--- |
+| **Tech & IoT** | Cyber Resilience Act (CRA) Risk Assessments, FCC Part 15, WEEE, RoHS |
+| **Manufacturing** | EU Digital Product Passports (DPP), CE Mark DoC, SCIP Notifications |
+| **Food & Agri** | US FSMA 204 Traceability Logs, EU Deforestation (EUDR), Halal/Kosher |
+| **Supply Chain** | CS3D Contractual Assurances, German LkSG, Modern Slavery Statements |
+| **Chemicals** | REACH / SVHC Checks, California Prop 65, US TSCA |
 
 ### Template-Driven Compliance
 
@@ -55,15 +53,16 @@ Start with **regulatory-mapped templates** instead of building from scratch:
 - Add custom fields without breaking compliance
 
 ### Fast Time-to-Value
-
-**Go from zero to published Compliance in under 30 minutes:**
-
-1. **Import** your product catalog via CSV
-2. **Generate** compliance documents using sector templates
-3. **Publish** branded QR codes and public pages
-4. **Track** scans and engagement in real-time
+Go from zero to a published, legally sound compliance asset within 30-minutes:
+1. **Ingest:** Upload your product catalog (CSV), add manually or connect via API.
+2. **Map:** Select your industry, target markets and regulations.
+3. **Generate:** The Certilium engine cross-references your data and highlights missing evidence.
+4. **Publish:** Output instantly to verifiable PDFs, JSON payloads, or public-facing QR codes.
 
 No dev team required. No regulatory consultants needed.
+
+### Zero-Knowledge Privacy Architecture
+Role-Based Access Control (RBAC) ensures your IP is safe. A consumer scanning a QR code sees your eco-metrics, but your proprietary CAS chemical lists and 3rd-party factory audits are locked (`Access Only`) and only shared with authorized Enterprise buyers or Customs officials.
 
 ### Multi-Language by Default
 
@@ -204,7 +203,7 @@ All tiers include:
 - Multi-language support (8 languages)
 - Billing and subscription management
 
-### 🚧 In Progress (Q1 2026)
+### 🚧 In Progress (Q2 2026)
 
 - REST API for programmatic access
 - Webhook notifications
@@ -264,9 +263,9 @@ All tiers include:
 
 ## FAQ
 
-### Is this only for world companies?
+### Is this only for companies active globally?
 
-No. Any company selling products in the world will need Compliance Documents. Sustalium works globally.
+No. Any business selling services or products requires specific compliance and/or sustainability documents. Sustalium supports both local and global businesses.
 
 ### Do you integrate with my existing ERP/PIM?
 
@@ -274,7 +273,7 @@ Sustalium Lite offers CSV import. Enterprise Sustalium has deep integrations wit
 
 ### What happens to my data if I cancel?
 
-You can export all your data (products, compliance documents, analytics) as CSV/JSON. Public Compliance Document URLs remain active for 90 days.
+You can export all your data (products, compliance documents, analytics) as CSV/JSON. Public Compliance Document URLs remain active for 90 days for audit and compliance reasons.
 
 ### Can I white-label the public Compliance Document pages?
 
@@ -282,10 +281,10 @@ Yes, on Enterprise plans. Custom domains, full branding, remove "Powered by Sust
 
 ### How do you handle data privacy (GDPR)?
 
-- Data hosted in world (Belgium)
+- Data is hosted in the location of the user. For EU, it is in The Netherlands.
 - SOC 2 Type II certified (in progress)
 - GDPR-ready data export
-- No personal data required for Compliance Documents
+- No personal data required for Compliance or Sustainability Documents
 
 ### What if my sector isn't listed?
 
