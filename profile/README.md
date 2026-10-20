@@ -157,8 +157,8 @@ No data migration headaches. Same platform, more features.
 
 **Want to see it in action?**
 
-1. **Book a Demo** → [sustalium.com](https://sustalium.com/demo)
-2. **View **Live Compliance Document →** [View compliance document](https://www.madfibers.com/Compliance Document.html?id=Compliance Document-ALBATROS-PLATE-SC-2025)**
+1. **Try it out** → [sustalium.com](https://sustalium.com)
+2. **View **Live Compliance Document →** [View compliance document](https://app.sustalium.com/company/sustalium)**
 
 ---
 
@@ -200,18 +200,18 @@ All tiers include:
 - Public Compliance Document pages with branding
 - Scan analytics and dashboards
 - Audit logs and change tracking
-- Multi-language support (8 languages)
+- Multi-language support (24+ languages)
+- Advanced template builder
 - Billing and subscription management
 
-### 🚧 In Progress (Q2 2026)
+### 🚧 In Progress (Q4 2026)
 
 - REST API for programmatic access
 - Webhook notifications
-- Advanced template builder
 - Supplier collaboration portals
 - Enhanced LCA calculations
 
-### 🔮 Planned (Q2-Q3 2026)
+### 🔮 Planned (2027)
 
 - AI-powered compliance recommendations
 - Blockchain integration for tamper-proof records
@@ -231,7 +231,7 @@ All tiers include:
 - **Backend:** Node.js with type-safe APIs
 - **Database:** PostgreSQL (multi-tenant architecture)
 - **Infrastructure:** GCP (Cloud Run, Cloud SQL, Cloud Storage, Cloud CDN)
-- **Region:** europe-west1 (Belgium) for GDPR compliance
+- **Region:** europe-west4 (Netherlands) for GDPR compliance
 - **Uptime:** 99.9% SLA (Enterprise plans)
 
 **Performance Targets:**
